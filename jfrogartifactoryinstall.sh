@@ -1,5 +1,8 @@
 #!/bin/bash
-sudo apt update
+# Install Java  
+sudo apt-get update
+sudo apt install fontconfig openjdk-17-jre -y
+java --version
 
 # Fetch and add the JFrog public GPG key
 wget -qO - https://releases.jfrog.io/artifactory/api/gpg/key/public | sudo apt-key add -
