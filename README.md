@@ -67,7 +67,7 @@ sudo apt-get install jfrog-artifactory-cpp-ce -y
 ## 🖥 Access in Web Browser
 
 1. Copy your server’s **Public IP**
-2. Open ports **8081** and **8082**
+2. Open ports **8081** 
 3. Access in browser:
 
 ```
