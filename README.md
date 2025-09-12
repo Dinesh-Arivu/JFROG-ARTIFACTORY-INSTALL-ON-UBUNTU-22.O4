@@ -12,6 +12,8 @@ It serves as the **central hub** for your DevOps processes:
 In software development, an **artifact** is any object produced during the build and deployment process.  
 Artifactory ensures these artifacts are properly managed, versioned, and delivered.  
 
+![Jfrog](https://github.com/user-attachments/assets/a8d0a9cc-28f5-4c6e-8db9-f69b07c5a2d9)
+
 ---
 
 ## ⚙️ Installation  
